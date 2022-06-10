@@ -1,5 +1,5 @@
-import React from 'react'
+import React from "react";
 
 export default function Home() {
-  return <h1>Home 2</h1>;
+  return <p class="text-purple-200 text-xs">Hello</p>;
 }
